@@ -1,0 +1,18 @@
+{
+    "development": {
+        "username": "ohi900kBX5",
+        "password": "ziHNLaL8X0",
+        "database": "ohi900kBX5",
+        "host": "remotemysql.com",
+        "dialect": "mysql"
+        
+    },
+    "test": {
+        "dialect": "sqlite",
+        "storage": "./database.sqlite3"
+    },
+    "production": {
+        "dialect": "sqlite",
+        "storage": "./database.sqlite3"
+    }
+}
